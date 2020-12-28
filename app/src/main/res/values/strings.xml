@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gradle Dependency Management Module</string>
+    <string name="hello_world_app_module">Hello World! - App Module</string>
+</resources>
