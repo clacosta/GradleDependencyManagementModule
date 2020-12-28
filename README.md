@@ -1,0 +1,2 @@
+# GradleDependencyManagementModule
+Gradle Dependency Management Module
